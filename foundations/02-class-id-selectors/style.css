@@ -1,0 +1,24 @@
+body {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+p.mainclass {
+    background-color: #FFCCCB; 
+    color: black;
+    font-size: 18px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif ;
+}
+
+p.mainclassbig {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(144,238,144); 
+    font-size: 24px;
+    font-weight: bold;
+}
